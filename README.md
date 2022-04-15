@@ -1,0 +1,2 @@
+- 👋 Olá, eu sou o professor IVO
+- Leciono a disciplina de Pensamento computacional para os 1 anos do CEOB
